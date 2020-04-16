@@ -6,3 +6,15 @@ In MAIN I put a list of projects, personal reports for finished ones, concept fo
 - thesis
 - space fluff 
 - open source 
+
+
+
+
+
+## Git commands (bc I will forget)
+
+git add
+git commit (write commit message)
+git push
+
+git status
