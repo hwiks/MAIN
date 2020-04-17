@@ -15,7 +15,8 @@ In MAIN I put a list of projects, personal reports for finished ones, concept fo
 
 git add
 
-git commit (write commit message)
+git commit
+git commit -m '<write commit message>'
 
 git push
 
