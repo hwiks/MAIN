@@ -17,7 +17,7 @@ git add
 
 git commit
 
-git commit -m '<write commit message>'
+git commit -m 'write commit message'
 
 git push
 
