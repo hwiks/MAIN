@@ -3,11 +3,13 @@ In MAIN I put a list of projects, personal reports for finished ones, concept fo
 
 ## List
 
-- thesis
-- space fluff 
-- open source 
+- thesis (cripted)
+- space fluff (https://www.zooniverse.org/projects/sundial-itn/space-fluff)
+- open source (astropy?)
 
+## Books
 
+- automate boring stuff with python: useful code snippets 
 
 
 
