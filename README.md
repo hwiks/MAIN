@@ -1,7 +1,8 @@
 # MAIN
-In MAIN I put a list of projects, personal reports for finished ones, concept for possible future ones, and where to find stuff.
 
-## List
+My name is Anna Lanteri and I want to build some solid coding experience with personal and work-related projects. 
+
+## Projects
 
 - thesis (cripted)
 - space fluff (https://www.zooniverse.org/projects/sundial-itn/space-fluff)
@@ -9,18 +10,6 @@ In MAIN I put a list of projects, personal reports for finished ones, concept fo
 
 ## Books
 
-- automate boring stuff with python: useful code snippets 
+- automate boring stuff with python
+- Java in a nutshell
 
-
-
-## Git commands (bc I will forget)
-
-git add
-
-git commit
-
-git commit -m 'write commit message'
-
-git push
-
-git status
